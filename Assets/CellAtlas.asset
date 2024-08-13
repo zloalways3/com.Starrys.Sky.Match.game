@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f6d095c04b07224da62d73045ef5556, type: 3}
+  m_Name: CellAtlas
+  m_EditorClassIdentifier: 
+  Atlas:
+  - TypeId: 0
+    Sprite: {fileID: 21300000, guid: d5482a179e8edd14baa46ef2acc0030d, type: 3}
+  - TypeId: 1
+    Sprite: {fileID: 21300000, guid: 581844e3a412dcf45bcd02d88cb238af, type: 3}
+  - TypeId: 2
+    Sprite: {fileID: 21300000, guid: 3a739005dfd42ef48887cf79e6cb7834, type: 3}
+  - TypeId: 3
+    Sprite: {fileID: 21300000, guid: a498a2c2ac691474abef15f98906a13a, type: 3}
+  - TypeId: 4
+    Sprite: {fileID: 21300000, guid: 33d43fb51c8e6f34aa08893767e786c7, type: 3}
+  - TypeId: 5
+    Sprite: {fileID: 21300000, guid: 88687e94e07d51442b898de167b1a519, type: 3}
+  - TypeId: 6
+    Sprite: {fileID: 21300000, guid: 2239ab9ec37cfc941a22557adce74aab, type: 3}
+  - TypeId: 7
+    Sprite: {fileID: 21300000, guid: 06631cb4dd5899f4f8d0d7de7fff8e55, type: 3}
+  - TypeId: 8
+    Sprite: {fileID: 21300000, guid: 023f6285a186eee4e87ea96a76e41ac3, type: 3}

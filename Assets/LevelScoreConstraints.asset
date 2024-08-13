@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f1ff7ff581db084e872a55f7b2dad71, type: 3}
+  m_Name: LevelScoreConstraints
+  m_EditorClassIdentifier: 
+  Map:
+  - LevelId: 0
+    Score:
+    - Key: 0
+      Score: 10
+    - Key: 1
+      Score: 17
+    - Key: 2
+      Score: 8
+  - LevelId: 1
+    Score:
+    - Key: 4
+      Score: 9
+    - Key: 7
+      Score: 12
+    - Key: 3
+      Score: 23
+  - LevelId: 2
+    Score:
+    - Key: 7
+      Score: 11
+    - Key: 3
+      Score: 15
+    - Key: 7
+      Score: 5
+  - LevelId: 3
+    Score:
+    - Key: 3
+      Score: 5
+    - Key: 1
+      Score: 3
+    - Key: 5
+      Score: 18
+  - LevelId: 4
+    Score:
+    - Key: 0
+      Score: 6
+    - Key: 7
+      Score: 15
+    - Key: 0
+      Score: 0
+  - LevelId: 5
+    Score:
+    - Key: 6
+      Score: 16
+    - Key: 0
+      Score: 3
+    - Key: 4
+      Score: 4
+  - LevelId: 6
+    Score:
+    - Key: 4
+      Score: 5
+    - Key: 2
+      Score: 8
+    - Key: 5
+      Score: 14
+  - LevelId: 7
+    Score:
+    - Key: 7
+      Score: 17
+    - Key: 8
+      Score: 2
+    - Key: 1
+      Score: 5
+  - LevelId: 8
+    Score:
+    - Key: 4
+      Score: 20
+    - Key: 7
+      Score: 3
+    - Key: 0
+      Score: 12
+  - LevelId: 9
+    Score:
+    - Key: 2
+      Score: 16
+    - Key: 5
+      Score: 18
+    - Key: 7
+      Score: 13
+  - LevelId: 10
+    Score:
+    - Key: 1
+      Score: 16
+    - Key: 6
+      Score: 19
+    - Key: 2
+      Score: 2
+  - LevelId: 11
+    Score:
+    - Key: 5
+      Score: 21
+    - Key: 7
+      Score: 3
+    - Key: 3
+      Score: 18
